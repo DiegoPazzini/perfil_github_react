@@ -3,4 +3,4 @@ Projeto desenvolvido com React. Foi criada uma página com informações do Gith
 
 <h1>Visualização Online</h1>
 A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
-Página com informações do Github: 
+Página com informações do Github: https://perfil-github-react-nx9i.vercel.app/
