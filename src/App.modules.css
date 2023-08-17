@@ -1,0 +1,31 @@
+.geral {
+    text-align: center;
+}
+    
+.input {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.botao {
+    background-color: rgb(7, 157, 7);
+    line-height: 25px;
+    font-size: 18px;
+    color: #fff;
+    width: 220px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: rgb(3, 128, 3);
+}
+
+.error {
+    color: red;
+    font-size: 20px;
+}
