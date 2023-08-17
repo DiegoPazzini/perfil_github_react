@@ -1,8 +1,6 @@
-# React + Vite
+<h1>Descrição do projeto:<h1>
+Projeto desenvolvido com React. Foi criada uma página com informações do Github. Digitando o nome do usuário, são mmostradas informações dos repositórios do usuário e sua respectiva foto de perfil e clicando no botão Visitar no Github é possível visualizar o projeto no site do Github em uma nova aba. Informações essas preenchidas via requisição Ajax.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Visualização Online<h1>
+A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
+Página com informações do Github: 
